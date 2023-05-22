@@ -1,8 +1,8 @@
-## Python scripts to retrieve genomes from MGnify [1]  
+## Python scripts to retrieve genomes from MGnify  
 
 ### Directory content  
 
-**mgnify-api.py** : retrieve MGnify genomes IDs for a user specified taxonomy + a customizable set of metadata in a tsv file.   
+**mgnify-api.py** : retrieve MGnify [1] genomes IDs for a user specified taxonomy + a customizable set of metadata in a tsv file.   
 MGnify API documentation : https://www.ebi.ac.uk/metagenomics/api/docs/  
   
 **download-data.py** : download MGnify using IDs retrieved by mgnify-api.py.  
